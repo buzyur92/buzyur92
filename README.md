@@ -66,7 +66,7 @@
 
 ## 🎒 Образование
 [<img src="/036e78e69bd.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/buzyur92/buzyur92/refs/heads/main/036e78e69bd.png)
-[<img src="/036e78e69bd.png" width="280px" hspace="10px" alt="goat»">](https://raw.githubusercontent.com/buzyur92/buzyur92/refs/heads/main/goat.png)
+[<img src="/goat.png" width="280px" hspace="10px" alt="goat»">](https://raw.githubusercontent.com/buzyur92/buzyur92/refs/heads/main/goat.png)
 <br>
 
 ## 🤝 Контакт
